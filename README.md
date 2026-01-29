@@ -2,67 +2,63 @@
 
 # 👋 Mohamed Samir
 
-**Senior Frontend Engineer · AI Automation · Security-Conscious**
+**Senior Frontend Engineer · AI Automation · Security-Aware Builder**
+
+I build real-world systems — not demos.  
+Focused on scalable frontends, intelligent automation, and secure-by-design architectures.
 
 ---
 
-## 🔹 Core Skills
+## 🔗 Connect with Me
 
-<div style="display:flex; gap:25px; flex-wrap:wrap;">
-  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/48/html-5.png"/>
-    <p>HTML5</p>
-  </div>
-  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/48/css3.png"/>
-    <p>CSS3</p>
-  </div>
-  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/48/react-native.png"/>
-    <p>React</p>
-  </div>
-  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/48/python.png"/>
-    <p>Python</p>
-  </div>
-  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/48/github.png"/>
-    <p>GitHub</p>
-  </div>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Samir606)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-## 🔹 Projects
+## 🧭 What I Build
 
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-
-<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.icons8.com/color/100/react-native.png"/>
-  <h4>AI Dashboard</h4>
-  <p>Realtime AI Automation Platform</p>
-</div>
-
-<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.icons8.com/color/100/python.png"/>
-  <h4>Security Scanner</h4>
-  <p>Vulnerability detection & reporting</p>
-</div>
-
-<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://img.icons8.com/color/100/github.png"/>
-  <h4>Open Source Tools</h4>
-  <p>Automation & DevOps Scripts</p>
-</div>
-
-</div>
+- Production-grade frontend systems  
+- AI-powered automation & workflow systems  
+- Security-conscious interfaces  
+- Startup-grade MVPs scalable to production  
 
 ---
 
-## 🔹 Contact & Socials
+## 🧰 Core Stack
 
-<div style="display:flex; gap:15px; margin-top:10px;">
-  <a href="#"><img src="https://img.icons8.com/fluency/48/linkedin.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/github.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/email.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
-</div>
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** HTML, CSS, TailwindCSS, React, Next.js  
+**Tools:** Git, Node.js, API integrations  
+
+---
+
+## 🏆 Selected Projects
+
+| Project | Description |
+|--------|-------------|
+| **AI Automation Dashboard** | Scalable, secure automation workflow system |
+| **Frontend Modern UI Kit** | Reusable components with performance-first design |
+| **Startup MVP** | Real product from idea → production |
+
+---
+
+## 🌟 Principles
+
+- Systems over scripts  
+- Clarity over complexity  
+- Security as UX  
+- Build for scale from day one  
+
+---
+
+## 📬 Contact
+
+> Serious work only.  
+> If you're building something real — let’s talk.
+
+GitHub · LinkedIn · Website · Email
