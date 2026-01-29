@@ -1,73 +1,50 @@
 ![Banner](./banner.svg)
 
-## 👋 Mohamed Samir
+# 👋 Mohamed Samir
 
 **Senior Frontend Engineer · AI Automation Builder · Security-Aware Developer**
 
-I build real-world systems — not demos.  
-My focus is on scalable frontends, intelligent automation, and secure-by-design architectures.
+I build **real-world systems** — not demos.  
+Focused on **scalable frontends**, **intelligent automation**, and **secure-by-design architectures**.
 
 ---
 
-## 🧭 What I Build
+## 🔹 Profile Statement
+
+Building systems meant to last, not just to impress.  
+Performance-first, abuse-aware, and designed for production environments.
+
+---
+
+## 🔹 What I Build
 
 - Production-ready frontend applications  
 - AI-powered automation & workflow systems  
-- Security-conscious interfaces resistant to abuse  
+- Security-conscious user interfaces  
 - Startup-grade MVPs that scale to production  
 
 ---
 
-## 🧠 Core Expertise
+## 🔹 Core Stack
 
-**Frontend Engineering**
-- Modern UI architecture
-- Performance-first rendering
-- Maintainable design systems
-
-**AI & Automation**
-- AI agents & task orchestration
-- API-driven automation
-- Data processing pipelines
-
-**Security Awareness**
-- Input validation & threat mitigation
-- Frontend attack surface reduction
-- Abuse-aware system design
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** HTML5, CSS3, TailwindCSS, React, Next.js  
+**Tools:** Git, Node.js, API integrations  
 
 ---
 
-## 🧰 Core Stack
+## 🔹 Work Principles
 
-**Languages**
-- JavaScript (ES6+)
-- TypeScript
-- Python
-
-**Frontend**
-- HTML5 / CSS3
-- TailwindCSS
-- React · Next.js
-
-**Tooling**
-- Git
-- Node.js
-- API integrations
-
----
-
-## 🏗 Work Philosophy
-
-- Build → Measure → Harden → Scale  
 - Systems over scripts  
-- Clarity beats complexity  
-- Security is a feature, not an afterthought  
+- Clarity over cleverness  
+- Security as part of UX  
+- Build for scale from day one  
 
 ---
 
-## 📬 Contact
+## 🔹 Contact
 
-> Serious work only.  
-> If you're building something real — let’s talk.
-
-[GitHub] · [LinkedIn] · [Website] · [Email]
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)  
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
+[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
