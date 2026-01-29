@@ -1,0 +1,10 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#0d1117"/>
+  <text x="60" y="120" fill="#ffffff" font-size="46" font-family="Segoe UI, Arial">
+    Mohamed Samir
+  </text>
+  <text x="60" y="170" fill="#8b949e" font-size="22" font-family="Segoe UI, Arial">
+    Senior Frontend Engineer · AI Automation · Security-Aware Builder
+  </text>
+  <line x1="60" y1="195" x2="360" y2="195" stroke="#30363d" stroke-width="2"/>
+</svg>
