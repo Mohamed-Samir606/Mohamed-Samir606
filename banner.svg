@@ -1,15 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice" width="100%" height="auto">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0A66C2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FFC107;stop-opacity:1" />
+      <stop offset="0%" stop-color="#0A66C2">
+        <animate attributeName="stop-color" values="#0A66C2;#FFC107;#0A66C2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FFC107">
+        <animate attributeName="stop-color" values="#FFC107;#0A66C2;#FFC107" dur="8s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
   </defs>
+
+  <!-- الخلفية -->
   <rect width="1200" height="200" fill="url(#grad)" rx="20" ry="20"/>
+
+  <!-- الاسم الرئيسي -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="48" fill="#ffffff" font-weight="bold">Mohamed Samir</text>
+        font-size="48" fill="#ffffff" font-weight="bold">
+    <tspan>
+      Mohamed Samir
+    </tspan>
+    <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- الوصف الثانوي -->
   <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="20" fill="#ffffff">Senior Frontend Engineer · AI Automation . Security</text>
+        font-size="20" fill="#ffffff">
+    Senior Frontend Engineer · AI Automation . Security 
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/>
+  </text>
 </svg>
