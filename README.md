@@ -1,5 +1,6 @@
 ![Banner](./banner.svg)
 
+
 # 👋 Mohamed Samir
 
 **Senior Frontend Engineer · AI Automation · Security-Aware Builder**
