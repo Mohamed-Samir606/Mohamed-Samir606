@@ -44,7 +44,21 @@ Performance-first, abuse-aware, and designed for production environments.
 
 ## 🔹 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)  
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](#)  
-[![Email](https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<div style="display:flex; gap:10px;">
+
+<a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+<style>
+  a img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  a img:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+  }
+</style>
