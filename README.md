@@ -2,63 +2,67 @@
 
 # 👋 Mohamed Samir
 
-**Senior Frontend Engineer · AI Automation Builder · Security-Aware Developer**
-
-I build **real-world systems** — not demos.  
-Focused on **scalable frontends**, **intelligent automation**, and **secure-by-design architectures**.
+**Senior Frontend Engineer · AI Automation · Security-Conscious**
 
 ---
 
-## 🔹 Profile Statement
+## 🔹 Core Skills
 
-Building systems meant to last, not just to impress.  
-Performance-first, abuse-aware, and designed for production environments.
-
----
-
-## 🔹 What I Build
-
-- Production-ready frontend applications  
-- AI-powered automation & workflow systems  
-- Security-conscious user interfaces  
-- Startup-grade MVPs that scale to production  
-
----
-
-## 🔹 Core Stack
-
-**Languages:** JavaScript, TypeScript, Python  
-**Frontend:** HTML5, CSS3, TailwindCSS, React, Next.js  
-**Tools:** Git, Node.js, API integrations  
-
----
-
-## 🔹 Work Principles
-
-- Systems over scripts  
-- Clarity over cleverness  
-- Security as part of UX  
-- Build for scale from day one  
+<div style="display:flex; gap:25px; flex-wrap:wrap;">
+  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/48/html-5.png"/>
+    <p>HTML5</p>
+  </div>
+  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/48/css3.png"/>
+    <p>CSS3</p>
+  </div>
+  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/48/react-native.png"/>
+    <p>React</p>
+  </div>
+  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/48/python.png"/>
+    <p>Python</p>
+  </div>
+  <div align="center" style="transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/48/github.png"/>
+    <p>GitHub</p>
+  </div>
+</div>
 
 ---
 
-## 🔹 Contact
+## 🔹 Projects
 
-<div style="display:flex; gap:10px;">
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Website"></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.icons8.com/color/100/react-native.png"/>
+  <h4>AI Dashboard</h4>
+  <p>Realtime AI Automation Platform</p>
+</div>
+
+<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.icons8.com/color/100/python.png"/>
+  <h4>Security Scanner</h4>
+  <p>Vulnerability detection & reporting</p>
+</div>
+
+<div align="center" style="width:200px; transition: transform 0.3s; cursor:pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://img.icons8.com/color/100/github.png"/>
+  <h4>Open Source Tools</h4>
+  <p>Automation & DevOps Scripts</p>
+</div>
 
 </div>
 
-<style>
-  a img {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  a img:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2);
-  }
-</style>
+---
+
+## 🔹 Contact & Socials
+
+<div style="display:flex; gap:15px; margin-top:10px;">
+  <a href="#"><img src="https://img.icons8.com/fluency/48/linkedin.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/github.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/email.png" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/></a>
+</div>
