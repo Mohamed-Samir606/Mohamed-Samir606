@@ -1,27 +1,9 @@
-<svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
-    </linearGradient>
-    <style>
-      .fade {
-        animation: fadeIn 3s ease-in-out infinite alternate;
-      }
-      @keyframes fadeIn {
-        0% { fill-opacity: 0.6; }
-        100% { fill-opacity: 1; }
-      }
-    </style>
-  </defs>
-  <rect width="100%" height="180" fill="url(#grad1)" />
+<svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="120" fill="#0A66C2" rx="10" ry="10"/>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Verdana" font-size="36" fill="#ffffff" class="fade">
-    Mohamed Samir
-  </text>
-  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Verdana" font-size="18" fill="#f4d35e">
-    Senior Frontend Engineer · AI Automation · Security
-  </text>
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="28" fill="#ffffff">Mohamed Samir</text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16" fill="#FFC107">Senior Frontend Engineer · AI Automation</text>
 </svg>
